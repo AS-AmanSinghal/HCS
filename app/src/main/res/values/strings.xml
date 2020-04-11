@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HCS</string>
+    <string name="logo">Logo</string>
+    <string name="email_id">Email ID</string>
+    <string name="login">LOGIN</string>
+    <string name="name">Name</string>
+</resources>
